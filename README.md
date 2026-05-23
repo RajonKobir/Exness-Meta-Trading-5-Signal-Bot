@@ -9,8 +9,9 @@ There is already built windows app at main/main.exe, download the "main" named f
 ## How To Run
 
 1. Run "pip install -r requirements.txt" to install all the required packages
-2. Run "pyinstaller --onedir --windowed --collect-all MetaTrader5 --hidden-import MetaTrader5 main.py" to make the exe file in dist folder
-3. "pip uninstall numpy" or "pip uninstall numpy MetaTrader5 customtkinter requests pyinstaller -y" and then "pip install numpy==1.26.4" if necessary
+2. Run "python main.py" to run the app after edition
+3. Run "pyinstaller --onedir --windowed --collect-all MetaTrader5 --hidden-import MetaTrader5 main.py" to make the exe file in dist folder
+4. "pip uninstall numpy" or "pip uninstall numpy MetaTrader5 customtkinter requests pyinstaller -y" and then "pip install numpy==1.26.4" if necessary
 
 ## Home Screen
 ![Home Screen](screenshots/home_screen.png)
