@@ -1,0 +1,10 @@
+{
+  "bot_token": "8773576556:AAFF7WjS1o6DA-VfMOUhur-MFkASPLLZMC0",
+  "chat_id": "-1003857748634",
+  "symbol": "XAUUSDm",
+  "candle_count": "41",
+  "buy_threshold": "16",
+  "sell_threshold": "16",
+  "interval": "1",
+  "timezone": "Asia/Dhaka"
+}

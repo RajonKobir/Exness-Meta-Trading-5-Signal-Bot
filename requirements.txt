@@ -1,0 +1,5 @@
+numpy==1.26.4
+MetaTrader5==5.0.45
+customtkinter==5.2.2
+requests==2.31.0
+pyinstaller==6.6.0
